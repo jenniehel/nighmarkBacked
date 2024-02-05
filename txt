@@ -1,0 +1,10 @@
+   // if (formValue.customName != document.querySelector("#customName").value ||
+                    //     formValue.InputId != document.querySelector("#InputId").value ||
+                    //     formValue.email != document.querySelector("#email").value ||
+                    //     formValue.password != document.querySelector("#password").value ||
+                    //     formValue.InputPassword2 != document.querySelector("#InputPassword2").value ||
+                    //     formValue.custom_authorId != document.querySelector("#custom_authorId").value ||
+                    //     formValue.myImage != document.querySelector("#myImage").value
+                    // ) {
+                    //     ischange = true;
+                    // }
