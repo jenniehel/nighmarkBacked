@@ -1,0 +1,15 @@
+table {
+  tr:nth-child(odd) {
+    & td {
+      background-color: #cff4fc;
+    }
+  }
+
+  .img-td {
+    width: 30%;
+
+    img {
+      max-width: 40%;
+    }
+  }
+}
