@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "midMonth",
+			"path": "."
+		},
+		{
+			"name": "parts",
+			"path": "../phpEx/PHPEx/parts"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#4F193A",
+			"titleBar.activeBackground": "#6E2351",
+			"titleBar.activeForeground": "#FDF8FB"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "midMonth",
+		"liveServer.settings.port": 5501
+	}
+}

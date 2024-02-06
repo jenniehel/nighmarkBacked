@@ -1,0 +1,9 @@
+想要在家裡自己開
+要把midMonth2024-1-31丟進htdocs
+
+然後把com-parts資料夾/com-parts-m的
+
+兩版db_connect改成
+
+$db_user = 'root';
+$db_pass = '';

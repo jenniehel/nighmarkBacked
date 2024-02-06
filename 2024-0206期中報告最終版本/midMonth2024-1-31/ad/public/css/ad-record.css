@@ -1,0 +1,9 @@
+table {
+  .img-td {
+    width: 30%;
+
+    img {
+      max-width: 40%;
+    }
+  }
+}

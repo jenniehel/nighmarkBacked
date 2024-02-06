@@ -1,0 +1,45 @@
+table {
+  tr:nth-child(odd) {
+    & td {
+      /* background-color: #cff4fc; */
+      background-color: rgb(238,245,255);
+      
+    }
+  }
+
+  .comment_id {
+    width: 5%;
+  }
+
+  .custom_id,
+  .merchant_id {
+    width: 6%;
+  }
+
+  .service_rating,
+  .product_ratings {
+    width: 8%;
+  }
+
+  .content,
+  .recommend_food,
+  .parking {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: justify;
+  }
+
+  .content {
+    max-width: 22rem;
+  }
+
+  .recommend_food,
+  .parking {
+    max-width: 8rem;
+  }
+
+  .date {
+    width: 10%;
+  }
+}
